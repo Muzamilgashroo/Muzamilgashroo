@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [musaibgashru.co](musaibgashru.co)
 
-- 📝 I regularly write articles on [https://foemusaib.hashnode.dev/](https://foemusaib.hashnode.dev/)
+- 📝 I regularly write articles on [https://foemusaib.hashnode.dev/](https://muzamilgashroo.hashnode.dev/)
 
 - 💬 Ask me about **HTML-Css | C/C++**
 
