@@ -1,5 +1,5 @@
 <h1 align="center"> # I'm Muzamil Gashroo</h1>
- <h3 align="center">A passionate frontend developer from Kashmir,</h3>
+<!--  <h3 align="center">A passionate frontend developer from Kashmir,</h3> -->
 
 <!-- <p align="left"> <a href="https://twitter.com/@muzamilgashroo" target="blank"><img src="https://img.shields.io/twitter/follow/@muzamilgashroo?logo=twitter&style=for-the-badge" alt="muzamilgashroo" /></a> </p> -->
 
