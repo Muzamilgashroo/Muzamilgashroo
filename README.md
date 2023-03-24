@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://muzamilgashroo.hashnode.dev/](https://muzamilgashroo.hashnode.dev/)
 
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/muzamilgashroo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/muzamilgashroo" />[https://www.buymeacoffee.com/muzamilgashroo](https://www.buymeacoffee.com/muzamilgashroo)</a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/muzamilgashroo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/muzamilgashroo" /></a></p><br><br>
 
 <!-- - Buy me a coffee [https://www.buymeacoffee.com/muzamilgashroo](https://www.buymeacoffee.com/muzamilgashroo) -->
 
