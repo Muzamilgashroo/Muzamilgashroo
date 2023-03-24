@@ -11,9 +11,10 @@
 
 - 📝 I regularly write articles on [https://muzamilgashroo.hashnode.dev/](https://muzamilgashroo.hashnode.dev/)
 
-- Buy me a coffee [https://www.buymeacoffee.com/muzamilgashroo](https://www.buymeacoffee.com/muzamilgashroo)
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/muzamilgashroo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/muzamilgashroo" /></a></p><br><br>
 
-<iframe src="https://giphy.com/embed/o7RZbs4KAA6tvM4H6j" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/buymeacoffee-buy-me-a-coffee-support-button-o7RZbs4KAA6tvM4H6j">via GIPHY</a></p>
+<!-- - Buy me a coffee [https://www.buymeacoffee.com/muzamilgashroo](https://www.buymeacoffee.com/muzamilgashroo) -->
+
 
 
 
