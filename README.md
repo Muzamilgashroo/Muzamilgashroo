@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C/C++ | Python | HTML-Css-Javascript |**
 
-- 👨‍💻 All of my projects are available at [musaibgashru.co](musaibgashru.co)
+<!-- - 👨‍💻 All of my projects are available at [musaibgashru.co](musaibgashru.co) -->
 
 - 📫 How to reach me **muzamilgashroo@hotmail.com**
 
