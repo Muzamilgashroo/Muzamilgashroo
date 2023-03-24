@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML-Css | C/C++**
 
-- 📫 How to reach me **muzamilgashroo@hotmai.com**
+- 📫 How to reach me **muzamilgashroo@hotmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
