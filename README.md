@@ -7,11 +7,16 @@
 
 - 👨‍💻 All of my projects are available at [musaibgashru.co](musaibgashru.co)
 
+- 📫 How to reach me **muzamilgashroo@hotmail.com**
+
 - 📝 I regularly write articles on [https://muzamilgashroo.hashnode.dev/](https://muzamilgashroo.hashnode.dev/)
 
-- 💬 Ask me about **HTML-Css | C/C++**
+- Buy me a coffee [https://www.buymeacoffee.com/muzamilgashroo](https://www.buymeacoffee.com/muzamilgashroo)
 
-- 📫 How to reach me **muzamilgashroo@hotmail.com**
+<iframe src="https://giphy.com/embed/o7RZbs4KAA6tvM4H6j" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/buymeacoffee-buy-me-a-coffee-support-button-o7RZbs4KAA6tvM4H6j">via GIPHY</a></p>
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
