@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@muzamilgashroo" target="blank"><img src="https://img.shields.io/twitter/follow/@muzamilgashroo?logo=twitter&style=for-the-badge" alt="muzamilgashroo" /></a> </p> -->
 
-- 🌱 I’m currently learning **C/C++ | Python | HTML-Css-Javascript |**
+- 🌱 I’m currently learning **C/C++ | Python | Html-Css-Javascript |**
 
 <!-- - 👨‍💻 All of my projects are available at [musaibgashru.co](musaibgashru.co) -->
 
